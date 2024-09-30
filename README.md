@@ -1,2 +1,8 @@
-# github-final-project
-Este repositorio contiene el proyecto final para el desarrollo de una interfaz de usuario (UI) para GitHub.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p t r
