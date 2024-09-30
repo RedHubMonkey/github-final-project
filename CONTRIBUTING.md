@@ -3,7 +3,6 @@
 ## Introduction
 This code of conduct aims to establish a framework of behavior for all collaborators and participants in this project. We promote an environment that fosters quality, collaboration, and mutual respect.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Commitment to Quality
 By participating in this project, each collaborator commits to:
 
@@ -13,7 +12,6 @@ By participating in this project, each collaborator commits to:
 
 3. **Continuously Improving**: Constantly seek ways to improve not only your own work but also that of the project. Learn from code reviews and seek advice when needed.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Collaboration
 We foster a collaborative environment where all members can contribute effectively:
 
@@ -23,14 +21,13 @@ We foster a collaborative environment where all members can contribute effective
 
 3. **Respecting Others' Time**: Recognize that everyone has different levels of experience and availability. Be considerate in your interactions and in how you ask for help.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## How to Contribute
 - **Report Bugs**: If you find a bug, feel free to open an issue to report it.
 - **Corrections**: If you wish to fix a bug, you can create a pull request with your changes.
 - **Documentation Improvements**: Any improvement in documentation is valuable and appreciated.
 - **Ideas**: If you have suggestions or ideas for improving the project, please share them.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Inclusivity
 Our project is open to everyone, and we value diversity:
 
@@ -38,10 +35,9 @@ Our project is open to everyone, and we value diversity:
 
 2. **Recognizing Others' Contributions**: Value the work and effort of others. Recognition is fundamental to a positive and motivating environment.
    
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Consequences
 Violations of this code of conduct may lead to warnings and, in severe cases, expulsion from the project.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Conclusion
 By joining this project, you commit to following this code of conduct. Thank you for your dedication to creating high-quality work and for contributing to a collaborative and respectful community.
